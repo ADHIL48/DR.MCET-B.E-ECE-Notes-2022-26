@@ -23,12 +23,14 @@ Thank you for visiting, and good luck with your studies!\
 
 Collection of all B.E ECE Notes for the academic year 2022-26. Read below for further insight on subjects for each semester.
 
+##
 📂 **[Google Drive - Complete Notes Collection](https://drive.google.com/drive/folders/1sGhxUBoLPVvtaDfuxGmZwAV_x7mShruW?usp=drive_link)**
 
-[![Complete Notes](https://github.com/kunalkeshan/SRMIST-B.Tech-ECE-Notes-2022-24/raw/main/assets/drive-card.jpg)](https://drive.google.com/drive/folders/1sGhxUBoLPVvtaDfuxGmZwAV_x7mShruW?usp=drive_link)  
-
-
-
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1sGhxUBoLPVvtaDfuxGmZwAV_x7mShruW?usp=drive_link">
+    <img src="https://github.com/kunalkeshan/SRMIST-B.Tech-ECE-Notes-2022-24/raw/main/assets/drive-card.jpg" alt="Complete Notes" width="600" height="140">
+  </a>
+</p>
 
 > **Note:** Large documents are present in the above drive as GitHub only offers a 25MB max per document.
 
@@ -53,7 +55,11 @@ Collection of all B.E ECE Notes for the academic year 2022-26. Read below for fu
 
 ### 🔍 Master GATE ECE With the Best Study Materials!  
 
-![GATE ECE Preparation](https://static.pw.live/5eb393ee95fab7468a79d189/GLOBAL_CMS_BLOGS/e76a29b4-5e72-4fe6-8735-2e9183e91992.png)  
+<p align="center">
+  <img src="https://static.pw.live/5eb393ee95fab7468a79d189/GLOBAL_CMS_BLOGS/e76a29b4-5e72-4fe6-8735-2e9183e91992.png" alt="GATE ECE Preparation" width="450" height="250">
+</p>
+
+
 > **Note:** Large documents are present in the above drive as GitHub only offers a 25MB max per document.
 
 ---
