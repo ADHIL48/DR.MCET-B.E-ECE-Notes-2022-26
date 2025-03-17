@@ -1,6 +1,11 @@
-# DR.MCET-B.E-ECE-Notes-2022-26
-# B.E ECE Notes
 
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=38&duration=3000&pause=1000&color=F39C12&center=true&vCenter=true&width=750&lines=📚+DR.MCET+B.E+ECE+Notes+2022-26;Your+Complete+Study+Resource!">
+</h1>
+
+# B.E ECE Notes
+<img src="https://static.c.realme.com/IN/thread/1374418210874535936.gif" alt="Big Smile Emoji" width="320px" align="right">
 Welcome to the ECE Notes project! The notes here, on our Website, and on Google Drive are for courses under the "19" regulation. Our college now uses the "23" regulation, so new students might find these materials less relevant.
 
 This project aimed to assist students, and I hope it helped those under the "19" regulation as much as it did for me. Feel free to connect with me at [mohammedadhil0408@gmail.com](mailto\:mohammedadhil0408@gmail.com).
@@ -37,7 +42,7 @@ Collection of all B.E ECE Notes for the academic year 2022-26. Read below for fu
 ## 📚 GATE Preparation Notes for EC  
 
 🔗 **[Access Complete GATE ECE Notes](https://drive.google.com/drive/folders/1Ec41ky_PWht_suKMVzFHIRrGdHazEPEt?usp=drive_link)**  
-
+<img src="https://gate2016.info/wp-content/uploads/2024/06/gate-study-material-electronics-communication.webp" alt="Big Smile Emoji" width="420px" align="right">
 🚀 **Boost Your GATE Preparation with High-Quality Study Resources!**  
 
 📂 This collection includes:  
@@ -52,13 +57,7 @@ Collection of all B.E ECE Notes for the academic year 2022-26. Read below for fu
 - 🌟 Curated by toppers & subject experts.  
 - 📖 Conceptual clarity with in-depth explanations.  
 - 🏆 Proven track record of success in GATE ECE.  
-
-### 🔍 Master GATE ECE With the Best Study Materials!  
-
-<p align="center">
-  <img src="https://static.pw.live/5eb393ee95fab7468a79d189/GLOBAL_CMS_BLOGS/e76a29b4-5e72-4fe6-8735-2e9183e91992.png" alt="GATE ECE Preparation" width="450" height="250">
-</p>
-
+- 🔍 Master GATE ECE With the Best Study Materials!  
 
 > **Note:** Large documents are present in the above drive as GitHub only offers a 25MB max per document.
 
@@ -85,6 +84,7 @@ You'll hardly have any contact with your seniors unless you're part of a club, p
 ---
 
 ## ⬇️ Directory Downloads
+<img src="https://img.paperform.co/fetch/f_jpg,w_1800/https://s3.amazonaws.com/paperform-blog/2023/03/maxresdefault.jpg" alt="Big Smile Emoji" width="420px" align="right">
 
 This repo is quite heavy, and downloading it as a whole might take a lot of time and data. Use **DownGit** to help download specific folders from this repository.
 
